@@ -6,5 +6,6 @@ public class hello_git {
         System.out.println("woshi nidaye2");
         System.out.println("master commit");
         System.out.println("hot-fix commit2");
+        System.out.println("push commit2");
     }
 }
